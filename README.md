@@ -1,2 +1,2 @@
 # seduc-html
-#HTML 5
+#HTML 5 e Python
